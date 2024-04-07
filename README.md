@@ -7,6 +7,4 @@ This folder contains/ will contain from-scratch implementations of relevant deep
 - vision transformer
 - autoencoder
 
-as well as the training of the following models:
-
-- object detection model
+Next up: Training of object detection model
