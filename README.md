@@ -6,5 +6,6 @@ This folder contains from-scratch implementations of relevant deep learning arch
 - transformer
 - vision transformer
 - autoencoder
+- variational autoencoder
 
 Next up: Training of object detection model
